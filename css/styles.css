@@ -113,21 +113,21 @@ a:hover {
   }
 
   section ol li {
-    font-size: 10px;
+    font-size: 1rem;
+    width: 100%;
   }
 
   h3, h4, h5 {
-    font-size: 15px;
+    font-size: 1.1rem;
   }
 
   main p {
-    font-size: 10px;
+    font-size: 0.9rem;
   }
 
   a {
-    font-size: 10px;
+    font-size: 1rem;
   }
-
 }
 
 
